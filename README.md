@@ -41,7 +41,7 @@ The image processing workflow proceeds as follows:
 
 The following diagram illustrates the flow and interaction between the various AWS services in this serverless image processing solution:
 
-![AWS Serverless Image Processing Architecture Diagram](aws-serverless-image-processing-architecture.png)
+![AWS Serverless Image Processing Architecture Diagram](aws_.png)
 
 *(Please make sure the image filename `aws-serverless-image-processing-architecture.png` matches exactly what you uploaded and renamed.)*
 
